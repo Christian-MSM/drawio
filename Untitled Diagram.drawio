@@ -1,23 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T09:12:15.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="I2BvmXyDA5SlHTR35Le6" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T16:23:03.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="hTgImQVCvzTbRpnGUoMs" version="20.6.0" type="github">
   <diagram name="Page-1" id="l0SQyd_m2lvOKnKboJc1">
-    <mxGraphModel dx="806" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5hcufTHVU9KcvH70T_6z-2" value="Preguntas" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="210" width="80" height="80" as="geometry" />
+        <mxCell id="KwzWSuqjbP4NHNCwYeoH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5hcufTHVU9KcvH70T_6z-2" target="KwzWSuqjbP4NHNCwYeoH-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="5hcufTHVU9KcvH70T_6z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5hcufTHVU9KcvH70T_6z-3" target="5hcufTHVU9KcvH70T_6z-2">
+        <mxCell id="KwzWSuqjbP4NHNCwYeoH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5hcufTHVU9KcvH70T_6z-2" target="KwzWSuqjbP4NHNCwYeoH-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="280" />
+              <mxPoint x="490" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hcufTHVU9KcvH70T_6z-2" value="Preguntas" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="290" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5hcufTHVU9KcvH70T_6z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5hcufTHVU9KcvH70T_6z-3" target="5hcufTHVU9KcvH70T_6z-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5hcufTHVU9KcvH70T_6z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5hcufTHVU9KcvH70T_6z-3" target="5hcufTHVU9KcvH70T_6z-4">
+        <mxCell id="5hcufTHVU9KcvH70T_6z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5hcufTHVU9KcvH70T_6z-3" target="5hcufTHVU9KcvH70T_6z-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5hcufTHVU9KcvH70T_6z-3" value="Formularios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="KwzWSuqjbP4NHNCwYeoH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.595;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5hcufTHVU9KcvH70T_6z-3" target="KwzWSuqjbP4NHNCwYeoH-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5hcufTHVU9KcvH70T_6z-4" value="Encuestas" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="480" y="210" width="80" height="80" as="geometry" />
+        <mxCell id="5hcufTHVU9KcvH70T_6z-3" value="Formularios" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KwzWSuqjbP4NHNCwYeoH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5hcufTHVU9KcvH70T_6z-4" target="KwzWSuqjbP4NHNCwYeoH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5hcufTHVU9KcvH70T_6z-4" value="Encuestas&lt;br&gt;&lt;br&gt;(Listado de encuestas resueltas)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="130" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KwzWSuqjbP4NHNCwYeoH-1" value="Detalle Pregunta&lt;br&gt;&lt;br&gt;(Listado de todas las respuestas dadas a esa pregunta)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KwzWSuqjbP4NHNCwYeoH-2" value="Estadistica pregunta&lt;br&gt;&lt;br&gt;(Graficas)&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="449" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KwzWSuqjbP4NHNCwYeoH-5" value="Detalle encuesta&lt;br&gt;&lt;br&gt;(Respuestas&amp;nbsp; de la encuesta especifica)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="125" y="310" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KwzWSuqjbP4NHNCwYeoH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KwzWSuqjbP4NHNCwYeoH-6" target="KwzWSuqjbP4NHNCwYeoH-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="260" />
+              <mxPoint x="375" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwzWSuqjbP4NHNCwYeoH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.865;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KwzWSuqjbP4NHNCwYeoH-6" target="KwzWSuqjbP4NHNCwYeoH-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="280" />
+              <mxPoint x="519" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwzWSuqjbP4NHNCwYeoH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KwzWSuqjbP4NHNCwYeoH-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="265" />
+              <mxPoint x="610" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwzWSuqjbP4NHNCwYeoH-6" value="Reporte respuestas&lt;br&gt;&lt;br&gt;(Listado de todas las preguntas y respuestas dadas al formulario)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KwzWSuqjbP4NHNCwYeoH-16" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Exportar excel&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;(Reporte especial de respuestas)&lt;/span&gt;&#xa;&#xa;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
