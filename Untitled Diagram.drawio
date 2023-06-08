@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-04T04:43:37.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="TCvzm9_5jXAb48z5HX0S" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T17:57:27.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZOu8BFlNiI7CXHSrmIXZ" version="21.3.7" type="github">
   <diagram name="Page-1" id="l0SQyd_m2lvOKnKboJc1">
-    <mxGraphModel dx="690" dy="2736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="474" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5hcufTHVU9KcvH70T_6z-2" value="Preguntas" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="5hcufTHVU9KcvH70T_6z-2" value="Preguntas" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="370" y="-970" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5hcufTHVU9KcvH70T_6z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5hcufTHVU9KcvH70T_6z-3" target="5hcufTHVU9KcvH70T_6z-2" edge="1">
@@ -32,22 +32,22 @@
         <mxCell id="KwzWSuqjbP4NHNCwYeoH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.595;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5hcufTHVU9KcvH70T_6z-3" target="KwzWSuqjbP4NHNCwYeoH-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5hcufTHVU9KcvH70T_6z-3" value="Formularios" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+        <mxCell id="5hcufTHVU9KcvH70T_6z-3" value="Formularios" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="350" y="-1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KwzWSuqjbP4NHNCwYeoH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5hcufTHVU9KcvH70T_6z-4" target="KwzWSuqjbP4NHNCwYeoH-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5hcufTHVU9KcvH70T_6z-4" value="Encuestas&lt;br&gt;&lt;br&gt;(Listado de encuestas resueltas)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="5hcufTHVU9KcvH70T_6z-4" value="Encuestas&lt;br&gt;&lt;br&gt;(Listado de encuestas resueltas)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="210" y="-1000" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KwzWSuqjbP4NHNCwYeoH-1" value="Detalle Pregunta&lt;br&gt;&lt;br&gt;(Listado de todas las respuestas dadas a esa pregunta)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+        <mxCell id="KwzWSuqjbP4NHNCwYeoH-1" value="Detalle Pregunta&lt;br&gt;&lt;br&gt;(Listado de todas las respuestas dadas a esa pregunta)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="380" y="-790" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KwzWSuqjbP4NHNCwYeoH-2" value="Estadistica pregunta&lt;br&gt;&lt;br&gt;(Graficas)&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="540" y="-770" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KwzWSuqjbP4NHNCwYeoH-5" value="Detalle encuesta&lt;br&gt;&lt;br&gt;(Respuestas&amp;nbsp; de la encuesta especifica)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+        <mxCell id="KwzWSuqjbP4NHNCwYeoH-5" value="Detalle encuesta&lt;br&gt;&lt;br&gt;(Respuestas&amp;nbsp; de la encuesta especifica)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="215" y="-820" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KwzWSuqjbP4NHNCwYeoH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KwzWSuqjbP4NHNCwYeoH-6" target="KwzWSuqjbP4NHNCwYeoH-1" edge="1">
@@ -67,10 +67,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KwzWSuqjbP4NHNCwYeoH-6" value="Reporte respuestas&lt;br&gt;&lt;br&gt;(Listado de todas las preguntas y respuestas dadas al formulario)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="KwzWSuqjbP4NHNCwYeoH-6" value="Reporte respuestas&lt;br&gt;&lt;br&gt;(Listado de todas las preguntas y respuestas dadas al formulario)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="560" y="-1010" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KwzWSuqjbP4NHNCwYeoH-16" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); float: none; display: inline !important;&quot;&gt;Exportar excel&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); float: none; display: inline !important;&quot;&gt;(Reporte especial de respuestas)&lt;/span&gt;&lt;br&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="KwzWSuqjbP4NHNCwYeoH-16" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; float: none; display: inline !important;&quot;&gt;Exportar excel&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; float: none; display: inline !important;&quot;&gt;(Reporte especial de respuestas)&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="700" y="-1010" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KwzWSuqjbP4NHNCwYeoH-17" value="Mostrar foto" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
@@ -251,19 +251,19 @@
         <mxCell id="KwzWSuqjbP4NHNCwYeoH-114" value="Link" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#7C7C7D;align=center;" parent="KwzWSuqjbP4NHNCwYeoH-100" vertex="1">
           <mxGeometry x="440" y="10" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EXAghvJ4DHwF4QH-_b_k-1" value="Vista SQL proceso" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;verticalAlign=top;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="EXAghvJ4DHwF4QH-_b_k-1" value="Vista SQL proceso" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;verticalAlign=top;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="20" y="-1002" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EXAghvJ4DHwF4QH-_b_k-2" value="Vista SQL hecha" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;verticalAlign=top;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="EXAghvJ4DHwF4QH-_b_k-2" value="Vista SQL hecha" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;verticalAlign=top;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="20" y="-961" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EXAghvJ4DHwF4QH-_b_k-4" value="Estatus de modulo" style="text;strokeColor=none;fillColor=none;html=1;fontSize=9;fontStyle=1;verticalAlign=middle;align=center;horizontal=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="EXAghvJ4DHwF4QH-_b_k-4" value="Estatus de modulo" style="text;strokeColor=none;fillColor=none;html=1;fontSize=9;fontStyle=1;verticalAlign=middle;align=center;horizontal=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="10" y="-1100" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EXAghvJ4DHwF4QH-_b_k-5" value="Vista SQL conectada" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;verticalAlign=top;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="EXAghvJ4DHwF4QH-_b_k-5" value="Vista SQL conectada" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;verticalAlign=top;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="20" y="-920" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EXAghvJ4DHwF4QH-_b_k-6" value="Interfaz en proceso" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;verticalAlign=top;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="EXAghvJ4DHwF4QH-_b_k-6" value="Interfaz en proceso" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;verticalAlign=top;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="20" y="-1043" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
